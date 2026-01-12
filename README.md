@@ -5,3 +5,5 @@
 ![Stars](https://img.shields.io/github/stars/Funckly?affiliations=OWNER%2CCOLLABORATOR)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Funckly&style=flat)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Funckly)](https://git.io/streak-stats)
