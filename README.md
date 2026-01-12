@@ -1,5 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Funckly&include_all_commits=true&count_private=true&show_icons=false)
+![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFunckly)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Funckly)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Funckly&include_all_commits=true&count_private=true&show_icons=false)
+![Followers](https://img.shields.io/github/followers/Funckly?label=followers)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Funckly)
+![Stars](https://img.shields.io/github/stars/Funckly?affiliations=OWNER%2CCOLLABORATOR)
+
+![Profile views](https://komarev.com/ghpvc/?username=Funckly&style=flat)
